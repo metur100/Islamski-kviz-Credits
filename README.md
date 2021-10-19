@@ -9,7 +9,7 @@ Background vector created by starline
 
 Simple Button Set 01 byThat Witch Design under Standard Unity Asset Store EULA
 
-Exit sign from https://icon-icons.com/icon/exit/70975
+"Exit sign" created by Icomoon from icons-icons.com https://icon-icons.com/users/hW1N1kfudzPufWnQUrLV6/icon-sets/
 
 
 ## SOUNDS
@@ -24,3 +24,11 @@ Exit sign from https://icon-icons.com/icon/exit/70975
 Background sounds from YT channel: 
 Stories of Prophets By Muneer ahmad
 https://www.youtube.com/watch?v=MhvVpH6u9ls
+
+## GAME
+
+Thanks to WatchFindDo Media for making great tutorial. Check it out: https://www.youtube.com/channel/UCUsfV7QLjZG-zcImMQxb3SQ
+
+## TEXT
+
+Questions and answers from: https://sites.google.com/view/islamska-vjeronauka/islamska-vjeronauka
