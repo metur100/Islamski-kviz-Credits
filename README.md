@@ -11,6 +11,8 @@ Simple Button Set 01 byThat Witch Design under Standard Unity Asset Store EULA
 
 "Exit sign" created by Icomoon from icons-icons.com https://icon-icons.com/users/hW1N1kfudzPufWnQUrLV6/icon-sets/
 
+App Icon made by "https://www.freepik.com from https://www.flaticon.com/
+
 
 ## SOUNDS
 
